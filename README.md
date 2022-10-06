@@ -10,25 +10,25 @@ l'Arduino tapes a une très grande vitesse des commandes dans un PowerShell.
 cela va:
 
 1) exporter et regrouper les wifi et leurs mots de passe dans un fichier.
-2) 
-3) les exporter vers un webhook.
-4) 
-5)désactiver Windows defender.
 
-5) git clone le Main.exe dans le Shell:startup.
-6) 
-7)aller dans le Shell:startup.
+2) les exporter vers un webhook.
 
-8)entrer dans le dossier Main.exe.
+3)désactiver Windows defender.
 
-9)copie coller le dossiermain.exe.
+4) git clone le Main.exe dans le Shell:startup.
+ 
+5)aller dans le Shell:startup.
 
-10)copie la copie du fichier .exe.
+6)entrer dans le dossier Main.exe.
 
-11)revenir dans le startup.
+7)copie coller le dossiermain.exe.
 
-12)coller le fichier .exe.
+8)copie la copie du fichier .exe.
 
-13)supprimer le dossier Main.exe.
+9)revenir dans le startup.
 
-14) redémarre l'ordinateur.
+10)coller le fichier .exe.
+
+11)supprimer le dossier Main.exe.
+
+12) redémarre l'ordinateur.
